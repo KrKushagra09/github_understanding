@@ -1,0 +1,2 @@
+# github_understanding
+github_understanding session purpose
